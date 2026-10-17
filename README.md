@@ -11,6 +11,8 @@ I’m David. I develop mobile apps and pay close attention to the way people int
 
 ### PlannedRations · Flutter
 
+[Try on TestFlight](https://testflight.apple.com/join/kd2ptwHy)
+
 I delivered the first Flutter app, connecting personalized meal plans, food logging, pantry management and guided cooking. My work also covers health tracking, subscriptions and family access.
 
 I created **41 interactive 3D enamel achievement badges**, with animated reveals and flip-and-spin interactions, and reduced their asset bundle from **39.7 MB to 14.8 MB**.
@@ -24,6 +26,8 @@ I created **41 interactive 3D enamel achievement badges**, with animated reveals
 <p align="center"><sub>Home &nbsp;·&nbsp; Meal planning &nbsp;·&nbsp; Grocery lists &nbsp;·&nbsp; Collectible achievements</sub></p>
 
 ### Ohealth · iOS
+
+[Ohealth on the App Store](https://apps.apple.com/ng/app/ohealth-app/id6479705696) · [ODoctor on the App Store](https://apps.apple.com/ng/app/odoctor/id6501959008)
 
 I developed iOS workflows across **Ohealth, ODoctor and Onotify**, connecting patients and doctors through video consultations and chat. I also connected patient accounts to hospital records and implemented laboratory, pharmacy and staff workflows.
 
