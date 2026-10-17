@@ -11,7 +11,7 @@ I’m David. I develop mobile apps and pay close attention to the way people int
 
 ### PlannedRations · Flutter
 
-[Try on TestFlight](https://testflight.apple.com/join/kd2ptwHy)
+[Try on TestFlight](https://testflight.apple.com/join/kd2ptwHy) · [Try on Android](https://appdistribution.firebase.dev/i/9fad2e4f8e30e920)
 
 I delivered the first Flutter app, connecting personalized meal plans, food logging, pantry management and guided cooking. My work also covers health tracking, subscriptions and family access.
 
