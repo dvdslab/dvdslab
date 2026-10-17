@@ -3,7 +3,7 @@
 **Mobile Engineer · Flutter & iOS**  
 Lagos, Nigeria
 
-<p><a href="https://www.linkedin.com/in/olatokunbodavid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-linkedin-dark.svg"><img src="assets/contact-linkedin-light.svg" width="90" height="26" alt="LinkedIn"></picture></a> <a href="mailto:dvdslab@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-email-dark.svg"><img src="assets/contact-email-light.svg" width="72" height="26" alt="Email"></picture></a></p>
+<p><a href="https://www.linkedin.com/in/olatokunbodavid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-linkedin-dark.svg"><img src="assets/contact-linkedin-light.svg" width="90" height="26" alt="LinkedIn"></picture></a> <a href="mailto:davidolatokunbo7@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-email-dark.svg"><img src="assets/contact-email-light.svg" width="72" height="26" alt="Email"></picture></a></p>
 
 I’m David. I develop mobile apps and pay close attention to the way people interact with them: the touch feedback, transitions and small decisions that make a screen easier to use.
 
